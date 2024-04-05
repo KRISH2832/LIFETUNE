@@ -1,0 +1,15 @@
+streamlit
+azure-cognitiveservices-vision-customvision==3.1.0
+requests==2.26.0
+streamlit_extras
+docarray==0.13.17
+docx2txt==0.8
+python-docx
+streamlit-auth0-component
+google-auth==2.22.0
+google-auth-httplib2==0.1.0
+js2py
+extra-streamlit-components
+streamlit-option-menu
+streamlit-aggrid==0.0.4
+localStoragePy
