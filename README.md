@@ -3,6 +3,21 @@
 ## Project Overview
 LifeTune is a groundbreaking application that leverages the power of artificial intelligence (AI) to revolutionize healthcare diagnostics and early disease detection. This project aims to empower individuals by providing self-service health assessments, accessible information, and seamless integration with healthcare professionals.
 
+### Demo of the project:
+
+1. Landing Page :
+
+![Screenshot from 2024-04-06 04-09-21](https://github.com/KRISH2832/LIFETUNE/assets/143683619/b5e951b2-f863-4eae-90ea-20b540848cb6)
+
+2. Get accurate analysis of your scans, along with an AI chat-bot assisting you :
+
+[kidney.webm](https://github.com/KRISH2832/LIFETUNE/assets/143683619/7006a3fd-04f0-4ef1-a64d-3507ae142c4e)
+
+3. Book appointments in Doctors (Under Development) :
+
+[bookapp.webm](https://github.com/KRISH2832/LIFETUNE/assets/143683619/ecaa9f60-0cc8-4471-9ca1-bb113a840400)
+
+
 ## Problem Statement
 Many diseases, such as cancer, have significantly better prognoses when detected in early stages. However, traditional diagnostic methods can be expensive, invasive, or lack sensitivity. This project aims to address these challenges by developing advanced AI-powered diagnostic tools that improve the accuracy and efficiency of disease detection, leading to earlier intervention and improved patient outcomes.
 
